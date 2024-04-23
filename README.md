@@ -45,12 +45,12 @@ python train_dist.py --config_path /path/your/config_path
 # 5. 학습 결과
 각 테스트 데이터셋에 대한 translation 결과를 보여줍니다.
 ## Apple2Orange
-
+![apple2orange](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/a0ec14cd-b973-41fa-81db-8229bcce8a11)
 ## Facade
-
+![facade](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/ae0e3061-2ef0-40a6-85b5-12ea07ba3e53)
 ## Horse2Zebra
-
+![horse2zebra](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/99cd6b6a-7b69-4158-a4f3-1a5a26a0b654)
 ## Monet2Photo
-
+![monet2photo](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/d3a3e115-f180-4e3b-8037-96c00af97f42)
 ## Summer2Winter
-
+![summer2winter](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/cd5f982e-aece-46da-a54c-507ed3eaff53)
